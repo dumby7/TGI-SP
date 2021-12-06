@@ -1,2 +1,20 @@
-Zastavene uzemi??? ma to byt jen ta hranice nebo ty samotny objekty wtf. Pokud by to byla jen ta hranice tak jsou v ty oblasti pod tou hranici i oblasti typu zahrada atd ktery nejsou zastaveny...
+Zastavene uzemi??? ma to byt jen ta hranice nebo ty samotny objekty. Pokud by to byla jen ta hranice tak jsou v ty oblasti pod tou hranici i oblasti typu zahrada atd ktery nejsou zastaveny...
 (Hranice objekty: 1742, 1743)
+Jak u RZV poznat o jaky konkretni typ z podskupiny se jedna
+Jak na oblasti kde se prekryva vice objektu najednou z jedne vrstvy (feature classy)
+Objekty presahujici resene uzemi???
+
+veřejně prospěšné stavby, opatření a asanace (vyjádřené plošně)
+veřejně prospěšné stavby, opatření a asanace (vyjádřené liniově)
+co ma byt liniove??
+
+da se updatovat nekolik zaznamu najednou (sql update)
+
+relativni cesty k datum misto absolutnich?
+-> File - Map Document Properties - zaskrtnout Store relative pathnames to data sources
+
+pridat legendu
+
+pridat v arccatalogu nad feature data setem topologii ze zastavene uzemi musi byt v resenem uzemi
+
+z kazdyho vykresu udelat z kazdy vrstvy lyr soubor
