@@ -1,23 +1,11 @@
-Zastavene uzemi??? ma to byt jen ta hranice nebo ty samotny objekty. Pokud by to byla jen ta hranice tak jsou v ty oblasti pod tou hranici i oblasti typu zahrada atd ktery nejsou zastaveny...
-(Hranice objekty: 1742, 1743)
--> jen ta hranice + dopravni infrastruktura
-
-Jak u RZV poznat o jaky konkretni typ z podskupiny se jedna
--> kdyz nevim tak dat zakladni typ
-
-Jak na oblasti kde se prekryva vice objektu najednou z jedne vrstvy (feature classy)
--> neresit jen vektorizovat aby to bylo v datech
-
 Objekty presahujici resene uzemi???
 -> staci asi jen uvnitr reseneho uzemi
-
-veřejně prospěšné stavby, opatření a asanace (vyjádřené plošně)
-veřejně prospěšné stavby, opatření a asanace (vyjádřené liniově)
--> liniove jen technickou infrastrukturu atd.. takze u nas v tom asi nic neni
 
 
 pridat legendu
 
-pridat v arccatalogu nad feature data setem topologii ze zastavene uzemi musi byt v resenem uzemi
-
 z kazdyho vykresu udelat z kazdy vrstvy lyr soubor
+
+
+popisky nevim jestli nastavit Placement Properties - Placement a zaskrtnout tu Only place label inside polygon --->
+ kdyz je to zaskrtnuty tak pak nejsou v oddaleni videt popisky vsude, kdyz ne tak jsou sice na kazdy plose ale je to pak dost necitelny
