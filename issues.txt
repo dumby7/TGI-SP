@@ -1,11 +1,8 @@
-Objekty presahujici resene uzemi???
--> staci asi jen uvnitr reseneho uzemi
-
-
 pridat legendu
 
-z kazdyho vykresu udelat z kazdy vrstvy lyr soubor
+checknout attributy v tabulkach
 
+dokumentace
 
 popisky nevim jestli nastavit Placement Properties - Placement a zaskrtnout tu Only place label inside polygon --->
  kdyz je to zaskrtnuty tak pak nejsou v oddaleni videt popisky vsude, kdyz ne tak jsou sice na kazdy plose ale je to pak dost necitelny
